@@ -9,4 +9,6 @@ Excel is a powerful tool for data explorations. In this project, I use Excel Onl
 
 Data Source: https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx
 
+Excel Online Link: https://1drv.ms/x/s!Akx48BBiFXLkiEf2qWb8sPpDEkDr?e=pfI1Fu
+
 _Paulina Leal_
